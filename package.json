@@ -1,0 +1,12 @@
+{
+  "name": "awesome-books-v2",
+  "version": "1.0.0",
+  "description": "This is the second version of Awesome books project with ES6 applied.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
