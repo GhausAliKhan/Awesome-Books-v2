@@ -10,6 +10,6 @@ export const dateTime = setInterval(() => {
   const formatedTime = currentTime.toFormat("MMMM d yyyy',' hh:mm:ss a");
 
   // Display the time in the 'currentTime' element
-  const elementTime = document.getElementById('currentTime');
+  const elementTime = document.querySelector('.currentTime');
   elementTime.innerText = formatedTime;
 }, 1000);
